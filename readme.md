@@ -1,7 +1,1 @@
-<script><p>PHP вывод: <span data-component="text">
-        <?php
-        $message = "Привет, мир!";
-        echo $message;
-        ?>
-    </span></p>
-</script>
+<script><?php echo "<script type='text/javascript'>alert('$message');</script>"; ?></script>
