@@ -1,1 +1,1 @@
-<script><?php echo "<script type='text/javascript'>alert('$message');</script>"; ?></script>
+<h1>You can draw any constallation of dataset and AI will return name of it </h1>
